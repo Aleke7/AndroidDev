@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/fragment_fuck.xml" value="0.1" />
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/fragment_task.xml" value="0.1" />
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/fragment_task_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/fragment_tasks.xml" value="0.18981481481481483" />
+        <entry key="..\:/AndroidPrj/lab5/lab4/app/src/main/res/layout/fragment_terms.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_book.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_launcher_background.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_priority.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_refresh.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_search.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_sort.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/drawable/task.xml" value="0.237" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/layout/fragment_task.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/layout/fragment_task_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/layout/fragment_tasks.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/lab5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
